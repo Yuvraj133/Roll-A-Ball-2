@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity3D-master", "Unity3D-master.csproj", "{998FB33F-FB59-A815-B75A-2A10A5B7882E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998FB33F-FB59-A815-B75A-2A10A5B7882E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998FB33F-FB59-A815-B75A-2A10A5B7882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998FB33F-FB59-A815-B75A-2A10A5B7882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998FB33F-FB59-A815-B75A-2A10A5B7882E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
